@@ -21,7 +21,7 @@ Data/ML Engineer based in Copenhagen with experience building scalable data pipe
 ### 🚀 Experience Highlights
 
 * Designed, developed and optimized ETL pipelines
-* Built data ingestion and transformation workflows in Azure
+* Built data ingestion and consolidation workflows in Azure
 * Developed ML models and APIs in production environments
 * Worked in both public sector and startup environments
 
