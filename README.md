@@ -11,10 +11,12 @@ Data/ML Engineer based in Copenhagen with experience building scalable data pipe
 
 ### 🛠 Tech Stack
 
-* **Languages:** Python, SQL, C#, R
-* **Data & ML:** PySpark, Pandas, Flask, FastAPI, Scikit-learn, PyTorch, TensorFlow, OOP
-* **Cloud:** Azure (ADF, Synapse, Data Lake), AWS
-* **DevOps:** Docker, Kubernetes, Terraform, CI/CD, Linux, Bash
+* **Languages:**       Python, SQL, C#, R
+* **Data & ML:**       PySpark, Pandas, Flask, FastAPI, Scikit-learn, PyTorch, TensorFlow
+* **Backend / APIs:**  Flask, FastAPI
+* **Microsoft Azure:** Data Factory (ADF), Synapse Analytics, Data Lake, Delta Lake, Parquet
+*	**AWS:**             VPC, Route 53, ALB, ECR, ECS Fargate, RDS, S3, IAM
+* **DevOps:**          Docker, Kubernetes, Terraform, MLflow, CI/CD, Linux, Bash
 
 ### 🚀 Experience Highlights
 
