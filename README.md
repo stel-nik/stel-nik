@@ -25,10 +25,6 @@ Data/ML Engineer based in Copenhagen with experience building scalable data pipe
 * Developed ML models and APIs in production environments
 * Worked in both public sector and startup environments
 
-### 📂 Projects
-
-*(Currently building — projects will be added soon)*
-
 ### 📫 Contact
 
 * LinkedIn: https://linkedin.com/in/nikolaou-stelios
