@@ -17,6 +17,7 @@ Data/ML Engineer based in Copenhagen with experience building scalable data pipe
 * **Microsoft Azure:** Data Factory, Synapse Analytics, Data Lake, Delta Lake, Parquet
 *	**AWS:**             VPC, Route 53, ALB, ECR, ECS Fargate, RDS, S3, IAM
 * **DevOps:**          Docker, Kubernetes, Terraform, MLflow, CI/CD, Linux, Bash
+* **AI Engineering:**  RAG, LLM agents, Ollama, Qdrant, MCP, on-prem LLM deployment, prompt engineering
 
 ### 🚀 Experience Highlights
 
