@@ -28,5 +28,6 @@ Data/ML Engineer based in Copenhagen with experience building scalable data pipe
 
 ### 📫 Contact
 
+* Website: https://steliosnikolaou.dev
 * LinkedIn: https://linkedin.com/in/nikolaou-stelios
 * Email: [stelios.nikolaou.cph@gmail.com](mailto:stelios.nikolaou.cph@gmail.com)
